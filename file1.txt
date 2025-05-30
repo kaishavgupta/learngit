@@ -1,2 +1,4 @@
 This is 1st file in this file1.txt comited in main branch
 This is 2nd file in this file1.txt comited in main branch
+
+added footer
